@@ -267,7 +267,7 @@
   color: white;
 }
 
-.staff__picks {
+.staff__cards {
   max-width: 760px;
   padding-top: 68px;
   padding-left: 0;
@@ -285,7 +285,7 @@
   box-sizing: border-box;
   height: 420px;
   width: 360px;
-  background-color: white;
+  background-color: #ffffff;
   list-style-type: none;
 }
 
