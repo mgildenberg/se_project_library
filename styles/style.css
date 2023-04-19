@@ -255,7 +255,7 @@
   font-size: 44px;
   line-height: 52px;
   margin: 0 0 24px;
-  color: white;
+  color: #ffffff;
 }
 
 .staff__subtitle {
@@ -264,7 +264,7 @@
   line-height: 30px;
   font-weight: 400;
   margin: 0;
-  color: white;
+  color: #ffffff;
 }
 
 .staff__cards {
@@ -415,7 +415,7 @@
 .footer {
   box-sizing: border-box;
   background-color: #1f1f1f;
-  color: white;
+  color: #ffffff;
   padding: 60px 102px 60px 80px;
 }
 
@@ -477,7 +477,7 @@
 }
 
 .footer__copyright {
-  color: white;
+  color: #ffffff;
   font-size: 16px;
   line-height: 20px;
   margin: 108px 0 0 0;
