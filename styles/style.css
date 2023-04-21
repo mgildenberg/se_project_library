@@ -34,6 +34,7 @@
   list-style-type: none;
   column-gap: 20px;
   align-items: flex-start;
+  padding-left: 0;
 }
 
 .nav__link {
